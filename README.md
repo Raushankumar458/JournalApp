@@ -1,0 +1,3 @@
+# JournalApp
+
+Flutter journal app.
