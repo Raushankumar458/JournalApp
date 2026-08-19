@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674664218869",
+    "project_id": "journal-app-dfb1d",
+    "storage_bucket": "journal-app-dfb1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674664218869:android:d6dc9f359f55422a9445bc",
+        "android_client_info": {
+          "package_name": "com.example.journalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPEzAhbFC8WBgjpIhl3nxxIxTQSZ1-IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
