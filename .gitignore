@@ -1,0 +1,11 @@
+﻿# Flutter / IDE generated files
+journalapp/.dart_tool/
+journalapp/.idea/
+journalapp/.metadata
+journalapp/.flutter-plugins-dependencies
+journalapp/build/
+journalapp/android/.kotlin/
+journalapp/.flutter-plugins
+journalapp/.packages
+journalapp/.fvm/
+**/.DS_Store
