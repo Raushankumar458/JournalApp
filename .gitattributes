@@ -1,0 +1,2 @@
+**//libflutter.so filter=lfs diff=lfs merge=lfs -text
+**/*.zip-cache filter=lfs diff=lfs merge=lfs -text
